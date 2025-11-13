@@ -48,12 +48,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdalkhawaja11/Abdalkhawaja11/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="0" src=""  />
-
-###
